@@ -1,0 +1,9 @@
+{
+  "useTabs":false,
+  "tabWidht":2,
+  "singleQuote":true,
+  "trailingComma":"all",
+  "semi":true,
+  "jsxBracketSameLie":true,
+  "bracketSpacing":true
+}
